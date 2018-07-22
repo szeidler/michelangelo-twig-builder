@@ -1,5 +1,5 @@
 # michelangelo-twig-builder
-KSS Builder using the Michelangelo Styleguide with TWIG files
+KSS Builder using the [Michelangelo Styleguide](https://github.com/stamkracht/michelangelo) with TWIG files
 
 ## Installation
 
